@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author yasin
- *
- */
-module githubdeneme {
-}
